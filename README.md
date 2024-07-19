@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnuragChaudhari9
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning NLP and Computer Vision
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Language Models, Data Structures and Algorithms
+- 💞️ I’m looking to collaborate on NLP, Computer Vision and Recommender Systems related projects
 - 📫 How to reach me anurag.chaudhariiitb@gmail.com
 
 <!---
